@@ -1,3 +1,11 @@
+# 🛡️ OfferShield AI
+
+AI-powered job offer scam detection platform.
+
+🔗 **Live Demo:** https://offershield-ai.vercel.app/
+
+📂 **GitHub:** https://github.com/Nandinisingh-05/offershield-ai
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
